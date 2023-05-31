@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T10:24:09.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ycAOTy0BfEHuM4F1AF1c" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-31T10:28:51.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6PfOfPYDzNdMsCBLUhfT" version="20.6.0" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="ICS工单创建">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="75" y="93" width="10" height="557" as="geometry" />
         </mxCell>
         <mxCell id="4DzWm4lysE0vdOQa_RRj-29" value="创建成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#009900;" vertex="1" parent="4DzWm4lysE0vdOQa_RRj-2">
-          <mxGeometry x="-10" y="145" width="90" height="30" as="geometry" />
+          <mxGeometry x="-10" y="160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4DzWm4lysE0vdOQa_RRj-30" value="&lt;font color=&quot;#ff0000&quot;&gt;创建失败&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#009900;" vertex="1" parent="4DzWm4lysE0vdOQa_RRj-2">
           <mxGeometry x="-10" y="510" width="90" height="30" as="geometry" />
@@ -263,6 +263,9 @@
         </mxCell>
         <mxCell id="4DzWm4lysE0vdOQa_RRj-26" value="消息服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtnJoueFRdmFTBYiuz7o-1" value="&lt;font color=&quot;#ff8000&quot;&gt;创建失败后补偿机制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#009900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="790" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
